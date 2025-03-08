@@ -1,0 +1,10 @@
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.csproj.AssemblyReference.cache
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.PMain.resources
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.Properties.Resources.resources
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.csproj.GenerateResource.cache
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.csproj.CoreCompileInputs.cache
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\Release\PatchManager\PatchManager.exe
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\Release\PatchManager\PatchManager.pdb
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.csproj.CopyComplete
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.exe
+E:\CQ3\有爱传奇3Z\源码\欢乐世界传奇3Zi众筹打包【密码：waili37086243】\众筹打包\无情欢乐世界传奇3Z服源码【众筹】\PatchManager\obj\Release\PatchManager.pdb

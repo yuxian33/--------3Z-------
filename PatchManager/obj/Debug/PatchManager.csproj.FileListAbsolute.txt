@@ -1,0 +1,32 @@
+D:\work_svn\zircon\trunk\Debug\PatchManager\PatchManager.exe
+D:\work_svn\zircon\trunk\Debug\PatchManager\PatchManager.pdb
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.csprojAssemblyReference.cache
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.PMain.resources
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.Properties.Resources.resources
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.csproj.GenerateResource.cache
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.exe.licenses
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.csproj.CoreCompileInputs.cache
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.csproj.CopyComplete
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.exe
+D:\work_svn\zircon\trunk\src\PatchManager\obj\Debug\PatchManager.pdb
+D:\My Game\zuixinyuanma\Debug\PatchManager\PatchManager.exe
+D:\My Game\zuixinyuanma\Debug\PatchManager\PatchManager.pdb
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.csprojAssemblyReference.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.PMain.resources
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.Properties.Resources.resources
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.csproj.GenerateResource.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.exe.licenses
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.csproj.CoreCompileInputs.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.csproj.CopyComplete
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.exe
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\PatchManager\obj\Debug\PatchManager.pdb
+G:\My Code\欢乐世界\zuixinyuanma\Debug\PatchManager\PatchManager.exe
+G:\My Code\欢乐世界\zuixinyuanma\Debug\PatchManager\PatchManager.pdb
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.csprojAssemblyReference.cache
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.PMain.resources
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.Properties.Resources.resources
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.csproj.GenerateResource.cache
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.csproj.CoreCompileInputs.cache
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.csproj.CopyComplete
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.exe
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月13日03】【复古】\PatchManager\obj\Debug\PatchManager.pdb

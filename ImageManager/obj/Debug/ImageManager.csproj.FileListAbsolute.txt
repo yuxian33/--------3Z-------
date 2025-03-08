@@ -1,0 +1,23 @@
+D:\work_svn\zircon\trunk\Debug\ImageManager\ImageManager.exe.config
+D:\work_svn\zircon\trunk\Debug\ImageManager\ImageManager.exe
+D:\work_svn\zircon\trunk\Debug\ImageManager\ImageManager.pdb
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.IMain.resources
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.Properties.Resources.resources
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.csproj.GenerateResource.cache
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.exe.licenses
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.csproj.CoreCompileInputs.cache
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.csproj.CopyComplete
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.exe
+D:\work_svn\zircon\trunk\src\ImageManager\obj\Debug\ImageManager.pdb
+D:\My Game\zuixinyuanma\Debug\ImageManager\ImageManager.exe.config
+D:\My Game\zuixinyuanma\Debug\ImageManager\ImageManager.exe
+D:\My Game\zuixinyuanma\Debug\ImageManager\ImageManager.pdb
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.csprojAssemblyReference.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.IMain.resources
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.Properties.Resources.resources
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.csproj.GenerateResource.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.exe.licenses
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.csproj.CoreCompileInputs.cache
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.csproj.CopyComplete
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.exe
+D:\My Game\zuixinyuanma\传奇3Z服源码【07月18日】\ImageManager\obj\Debug\ImageManager.pdb
