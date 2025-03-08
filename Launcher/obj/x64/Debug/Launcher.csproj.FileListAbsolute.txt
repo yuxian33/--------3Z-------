@@ -1,0 +1,21 @@
+G:\My Code\欢乐世界\zuixinyuanma\Debug\Launcher.exe
+G:\My Code\欢乐世界\zuixinyuanma\Debug\Launcher.pdb
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.csprojAssemblyReference.cache
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.LMain.resources
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.Properties.Resources.resources
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.csproj.GenerateResource.cache
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.exe.licenses
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.csproj.CoreCompileInputs.cache
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.exe
+G:\My Code\欢乐世界\zuixinyuanma\传奇3Z服源码【2020年04月16日02】【复古】\Launcher\obj\x64\Debug\Launcher.pdb
+D:\MyCode\Debug\Launcher.exe
+D:\MyCode\Debug\Launcher.pdb
+D:\MyCode\传奇3Z服源码【2021年09月22日01】【老区】\Launcher\obj\x64\Debug\Launcher.LMain.resources
+D:\MyCode\传奇3Z服源码【2021年09月22日01】【老区】\Launcher\obj\x64\Debug\Launcher.Properties.Resources.resources
+D:\MyCode\传奇3Z服源码【2021年09月22日01】【老区】\Launcher\obj\x64\Debug\Launcher.csproj.GenerateResource.cache
+D:\MyCode\传奇3Z服源码【2021年09月22日01】【老区】\Launcher\obj\x64\Debug\Launcher.exe.licenses
+D:\MyCode\传奇3Z服源码【2021年09月22日01】【老区】\Launcher\obj\x64\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\MyCode\传奇3Z服源码【2021年09月22日01】【老区】\Launcher\obj\x64\Debug\Launcher.exe
+D:\MyCode\传奇3Z服源码【2021年09月22日01】【老区】\Launcher\obj\x64\Debug\Launcher.pdb
+D:\MyCode\Debug\Launcher\Launcher.exe
+D:\MyCode\Debug\Launcher\Launcher.pdb
